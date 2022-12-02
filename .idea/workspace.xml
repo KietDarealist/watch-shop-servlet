@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="watchshop:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df968401-e99a-49f8-aa98-c4b5cc20800d" name="Changes" comment="Hung init source" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="vinhbranch" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JspContextManager">
+    <jsp-to-context jsp-file="file://$PROJECT_DIR$/src/main/webapp/common/public/headerLibraryPublic.jsp" context-file="file://$PROJECT_DIR$/src/main/webapp/public/product.jsp" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HMHhOdsHBEjUQP5Nq7P6pFTCK3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/huynhngoctuankiet/Documents/School/Web/watch-shop-servlet-master",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HK1_2022-2023\WEPR\WatchShop\src\main\webapp\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HK1_2022-2023\WEPR\WatchShop\src\main\webapp\public" />
+      <recent name="D:\HK1_2022-2023\WEPR\WatchShop\target\watchshop-1.0-SNAPSHOT" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.81" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="watchshop:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/watchshop_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="85e9f0fd-91fc-4257-95b9-30fcdfeac1dc" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62062" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="CLIENT_ID" />
+          <option name="VALUE" value="ARbeX9_1fbXnAxKTtWE_M64JB9VAh3DLVbBUIjwmHb99_ekrKGfjbjBuZKS8ZmnzQ71e6SL76CzvHsqD" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+        <EnvironmentVariables>
+          <option name="NAME" value="CLIENT_SECRET" />
+          <option name="VALUE" value="EP1683W5ErjtIeuqMSWKxRksjPPXqq_jf6zf4f4R-SrKjoz3BqfKwJLyl65q02iacCQSwJ0jzzlti-X7" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+        <EnvironmentVariables>
+          <option name="NAME" value="DB_PASSWORD" />
+          <option name="VALUE" value="722dd4e3556ad582d15b560f3738a9ba5b5354a87bbad4c7b0ce2b062cbcd2db" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+        <EnvironmentVariables>
+          <option name="NAME" value="DB_USERNAME" />
+          <option name="VALUE" value="puwsjdgbxzmtjq" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+        <EnvironmentVariables>
+          <option name="NAME" value="JDBC_URL" />
+          <option name="VALUE" value="jdbc:postgresql://ec2-54-160-109-68.compute-1.amazonaws.com:5432/dc7j38gi25oh44" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+        <EnvironmentVariables>
+          <option name="NAME" value="REVIEW_PAGE" />
+          <option name="VALUE" value="https://watchshop.live/review" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+        <EnvironmentVariables>
+          <option name="NAME" value="SMTP_PASSWORD" />
+          <option name="VALUE" value="qrdginftdejupvvi" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+        <EnvironmentVariables>
+          <option name="NAME" value="SITE_URL" />
+          <option name="VALUE" value="https://watchshop.live" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="watchshop:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="b954ea96-2544-49f6-aa7d-b5dbdf4f8dfd" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62062" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df968401-e99a-49f8-aa98-c4b5cc20800d" name="Changes" comment="" />
+      <created>1668088156033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668088156033</updated>
+      <workItem from="1668088158146" duration="781000" />
+      <workItem from="1668089993315" duration="6714000" />
+      <workItem from="1668133419664" duration="3954000" />
+      <workItem from="1668146956942" duration="9226000" />
+      <workItem from="1668186691552" duration="878000" />
+      <workItem from="1668215248102" duration="669000" />
+      <workItem from="1668239070450" duration="24000" />
+      <workItem from="1668301699322" duration="604000" />
+      <workItem from="1668418689334" duration="999000" />
+      <workItem from="1668419734109" duration="4295000" />
+      <workItem from="1668436686829" duration="635000" />
+      <workItem from="1668500995139" duration="354000" />
+      <workItem from="1668561691795" duration="10262000" />
+      <workItem from="1668578225306" duration="7623000" />
+      <workItem from="1668653719835" duration="7337000" />
+      <workItem from="1668671031325" duration="601000" />
+      <workItem from="1668671647783" duration="10468000" />
+      <workItem from="1668689313278" duration="8289000" />
+      <workItem from="1668700009664" duration="1337000" />
+      <workItem from="1668729591442" duration="13822000" />
+      <workItem from="1668758237914" duration="2183000" />
+      <workItem from="1668782622886" duration="375000" />
+      <workItem from="1668825256928" duration="14000" />
+      <workItem from="1669000479853" duration="33296000" />
+      <workItem from="1669081347336" duration="20792000" />
+      <workItem from="1669112352628" duration="183000" />
+      <workItem from="1669125457775" duration="9479000" />
+      <workItem from="1669166640156" duration="2761000" />
+      <workItem from="1669186179221" duration="12595000" />
+      <workItem from="1669253394715" duration="12723000" />
+      <workItem from="1669279888526" duration="273000" />
+      <workItem from="1669304297442" duration="2343000" />
+      <workItem from="1669341324418" duration="7701000" />
+      <workItem from="1669602205732" duration="20296000" />
+      <workItem from="1669637913831" duration="8961000" />
+      <workItem from="1669712924682" duration="3275000" />
+      <workItem from="1669811745901" duration="5498000" />
+      <workItem from="1669821416481" duration="1524000" />
+      <workItem from="1669859973631" duration="37000" />
+      <workItem from="1669860036296" duration="114000" />
+      <workItem from="1669904223888" duration="335000" />
+      <workItem from="1669954696947" duration="400000" />
+    </task>
+    <task id="LOCAL-00001" summary="Format currency and config .idea folder">
+      <created>1668096560694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668096560694</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Show related products on Product page">
+      <created>1668156089827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668156089827</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change language from English to Vietnamese on Detailed Product page">
+      <created>1668215318272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668215318272</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test automatically deployed">
+      <created>1668215400608</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668215400608</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test automatically deployed (Second try)">
+      <created>1668215717235</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668215717235</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Convert to manually deployed">
+      <created>1668215821639</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668215821639</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test merge branch">
+      <created>1668419623652</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668419623652</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Pagination for shop - add multiple images">
+      <created>1668420000070</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668420000070</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Pagination for shop - add multiple images">
+      <created>1668420127466</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668420127466</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update Order model">
+      <created>1668420713119</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668420713119</updated>
+    </task>
+    <task id="LOCAL-00011" summary="CheckoutServlet &amp; CartServlet">
+      <created>1668616244877</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668616244877</updated>
+    </task>
+    <task id="LOCAL-00012" summary="CheckoutServlet &amp; CartServlet">
+      <created>1668667968971</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668667968971</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Enhance security (Hide password)">
+      <created>1669040707824</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669040707824</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Enhance security (Hide password)">
+      <created>1669046292211</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669046292211</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Delete favicon">
+      <created>1669046756359</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669046756359</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Using new favicon">
+      <created>1669050396864</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669050396864</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Using Paypal for payment (Sandbox mode)">
+      <created>1669050579659</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669050579659</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Rearrange directory">
+      <created>1669051385097</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1669051385097</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Deploy Paypal path on Heroku">
+      <created>1669052063287</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669052063287</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Account Setting page">
+      <created>1669168437592</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669168437592</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Validate new account (Using JavaMail)">
+      <created>1669168509593</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1669168509593</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Config SMTP server">
+      <created>1669189220451</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1669189220451</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Change site URL (Verify Email)">
+      <created>1669194623325</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1669194623325</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Filter orders by DateTime">
+      <created>1669266286404</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1669266286404</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Apache Kafka">
+      <created>1669266302509</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1669266302509</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Update Admin UI">
+      <created>1669620137304</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1669620137304</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Export data into Excel Using ApachePoi">
+      <created>1669620214662</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1669620214662</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Config path to store Excel file">
+      <created>1669629913058</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1669629913058</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Enhance security">
+      <created>1669645593805</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1669645593805</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add Jackson annotation dependency">
+      <created>1669795828878</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1669795828878</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Add Jackson annotation dependency">
+      <created>1669796064894</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1669796064894</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Hung init source">
+      <created>1669904443181</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1669904443181</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="dca14bfa-5e31-4cdf-b5a6-030238d1f226">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="dca14bfa-5e31-4cdf-b5a6-030238d1f226" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/vinhbranch" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Test automatically deployed" />
+    <MESSAGE value="Test automatically deployed (Second try)" />
+    <MESSAGE value="Convert to manually deployed" />
+    <MESSAGE value="Test merge branch" />
+    <MESSAGE value="Pagination for shop - add multiple images" />
+    <MESSAGE value="Update Order model" />
+    <MESSAGE value="CheckoutServlet &amp; CartServlet" />
+    <MESSAGE value="Enhance security (Hide password)" />
+    <MESSAGE value="Delete favicon" />
+    <MESSAGE value="Using new favicon" />
+    <MESSAGE value="Using Paypal for payment (Sandbox mode)" />
+    <MESSAGE value="Rearrange directory" />
+    <MESSAGE value="Deploy Paypal path on Heroku" />
+    <MESSAGE value="Account Setting page" />
+    <MESSAGE value="Validate new account (Using JavaMail)" />
+    <MESSAGE value="Config SMTP server" />
+    <MESSAGE value="Change site URL (Verify Email)" />
+    <MESSAGE value="Filter orders by DateTime" />
+    <MESSAGE value="Apache Kafka" />
+    <MESSAGE value="Update Admin UI" />
+    <MESSAGE value="Export data into Excel Using ApachePoi" />
+    <MESSAGE value="Config path to store Excel file" />
+    <MESSAGE value="Enhance security" />
+    <MESSAGE value="Add Jackson annotation dependency" />
+    <MESSAGE value="Hung init source" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hung init source" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wepr/watchshop/controller/admin/CatgoryManagementServlet.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

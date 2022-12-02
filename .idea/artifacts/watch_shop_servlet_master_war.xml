@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="watch-shop-servlet-master:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>watch-shop-servlet-master</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="watchshop-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="watch-shop-servlet-master:war exploded" />
+    </root>
+  </artifact>
+</component>
